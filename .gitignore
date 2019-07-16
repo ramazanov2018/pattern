@@ -1,6 +1,8 @@
 # common
 .idea
 /vendor/
+/class
+/tests
 /old
 /_build/
 *.mo
