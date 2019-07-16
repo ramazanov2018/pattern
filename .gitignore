@@ -1,0 +1,9 @@
+# common
+.idea
+/vendor/
+/old
+/_build/
+*.mo
+.vagrant/
+phpunit.xml
+composer.phar
